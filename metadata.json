@@ -1,0 +1,6 @@
+{
+  "name": "OmniMarket",
+  "description": "Enterprise Marketplace application with multiple dashboards for consumers, sellers, admins, and partners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
